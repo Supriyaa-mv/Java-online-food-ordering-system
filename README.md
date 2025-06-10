@@ -6,6 +6,7 @@ My major focus is design and implementations an unique Online Food Ordering Syst
 More food menus can be developed in the user panel of this system including Payment Gateway, Currency Convert panel. And here only the basic operations have been done.
 
 There are mainly Four portion in this System following :-
+
  Login Form.
 
  Registration Form.
